@@ -1,6 +1,9 @@
 # Shopping Trends Analysis Dashboard
 
-![Project Preview](https://github.com/GeorgeHanyMilad/End-to-End-Shopping-Trends-Data-Analysis/blob/master/Banner.jpg?raw=true)  
+<p align="center">
+  <img src="https://github.com/GeorgeHanyMilad/End-to-End-Shopping-Trends-Data-Analysis/blob/master/Banner.jpg?raw=true" alt="Project Preview" width="700">
+</p>
+ 
 *A complete end-to-end data analysis pipeline with interactive visualizations.*
 
 ---
