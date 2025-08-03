@@ -1,4 +1,8 @@
-# Shopping Trends Analysis Dashboard
+<h1 align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Zxb21kMTVsYjJjeWJrNmE3eTZ4ZHdqMXJxeTc2NXN4ZnB5ZXBtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ekY2WkQVcAsaAQpDnu/giphy.gif" alt="Logo" width="50" style="vertical-align: middle; margin-right: 50px;">
+  Shopping Trends Analysis Dashboard
+</h1>
+
 
 <p align="center">
   <img src="https://github.com/GeorgeHanyMilad/End-to-End-Shopping-Trends-Data-Analysis/blob/master/Banner.jpg?raw=true" alt="Project Preview" width="700">
