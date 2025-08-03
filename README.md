@@ -1,6 +1,6 @@
 # Shopping Trends Analysis Dashboard
 
-![Project Preview](images/project-banner.png)  
+![Project Preview](https://github.com/GeorgeHanyMilad/End-to-End-Shopping-Trends-Data-Analysis/blob/master/Banner.jpg?raw=true)  
 *A complete end-to-end data analysis pipeline with interactive visualizations.*
 
 ---
@@ -71,13 +71,13 @@ The goal is to extract **key business insights** about **customer behavior, sale
 *(Add screenshots of the 3 pages here)*
 
 - **Home Page**
-![Home](images/home.png)
+![Home](https://github.com/GeorgeHanyMilad/End-to-End-Shopping-Trends-Data-Analysis/blob/master/Home%20Page.jpg?raw=true)
 
 - **Insights Page**
-![Insights](images/insights.png)
+![Insights](https://github.com/GeorgeHanyMilad/End-to-End-Shopping-Trends-Data-Analysis/blob/master/Insights%20Page.jpg?raw=true)
 
 - **Products Page**
-![Products](images/products.png)
+![Products](https://github.com/GeorgeHanyMilad/End-to-End-Shopping-Trends-Data-Analysis/blob/master/Products%20Page.jpg?raw=true)
 
 ---
 
